@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-kotlin.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Getting_substrings-Case_insensitive.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Getting_substrings-Exchange.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Getting_substrings-From_A_to_B.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Getting_substrings-Theory.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-First_digit.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Placement_of_ships.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Theory.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Unique_characters.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Determine_the_output.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Determine_the_value.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Double_characters.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-The_longest_word.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Theory.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-When_expression-Direction.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-When_expression-String_processor.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-When_expression-The_number_of_digits.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-When_expression-Theory.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-While_loops-Choose_the_correct_ones.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-While_loops-Squares_of_natural_numbers.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-While_loops-The_length_of_the_sequence.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-While_loops-The_sum_of_elements.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-While_loops-Theory.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-While_loops-What_does_the_code_print.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.Topics-While_loops-What_does_the_code_print__1_.main" target="13" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
